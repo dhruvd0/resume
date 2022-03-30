@@ -5,17 +5,13 @@
 
     <div class="page-content">
         <div id="content">
-
+            <?php include('intro.php') ?>
             <div class="section pt-4 px-3 px-lg-4" id="about">
                 <div class="container-narrow">
                     <div class="row">
                         <div class="col-md-6">
-                            <h2 class="h4 my-2">Hello! I’m Walter Patterson.</h2>
-                            <p>I am passionate about UI/UX design and Web Design. I am a skilled front-end developer and
-                                master of graphic design tools such as Photoshop and Sketch. I am a quick learner and a
-                                team worker that gets the job done. I can easily
-                                capitalize on low hanging fruits and quickly maximize timely deliverables for real-time
-                                schemas.</p>
+                            <h2 class="h4 my-2">Hello! I’m Dhruv Devasthale, E19CSE167</h2>
+                            <p>Flutter Developer</p>
                             <div class="row mt-3">
                                 <div class="col-sm-2">
                                     <div class="pb-1">Age:</div>

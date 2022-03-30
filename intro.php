@@ -8,8 +8,7 @@
                      <div class="mt-5">
                          <p class="lead text-uppercase mb-1">Hello!</p>
                          <h1 class="intro-title marker" I’m Walter Patterson</h1>
-                             <p class="lead fw-normal mt-3">Web Developer
-                                 & Mobile Application Developer</p>
+                             <p class="lead fw-normal mt-3">Flutter Developer</p>
                              <div class="social-nav">
                                  <nav role="navigation">
                                      <ul class="nav justify-content-left">
